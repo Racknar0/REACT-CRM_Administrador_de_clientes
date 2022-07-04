@@ -7,6 +7,30 @@
       "telefono": "65465",
       "notas": "El cliente solicita un producto",
       "id": 1
+    },
+    {
+      "nombre": "Camilo",
+      "empresa": "Asperiores dolore ap",
+      "email": "jemys@mailinator.com",
+      "telefono": "65465",
+      "notas": "El cliente solicita un producto",
+      "id": 2
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "DiseñoKaren",
+      "email": "Karen@karen.com",
+      "telefono": "56456465465",
+      "notas": "Ctoizando",
+      "id": 3
+    },
+    {
+      "nombre": "Temporibus quibusdam",
+      "empresa": "Iste excepturi place",
+      "email": "sadag@mailinator.com",
+      "telefono": "785285287",
+      "notas": "Quis eiusmod commodi",
+      "id": 4
     }
   ]
 }

@@ -7,7 +7,7 @@ const Layout = () => {
 
     const location = useLocation()
     const urlActual = location.pathname
-    console.log(urlActual);
+    //console.log(urlActual);
 
 
 
