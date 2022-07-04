@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Camilo",
+      "empresa": "Asperiores dolore ap",
+      "email": "jemys@mailinator.com",
+      "telefono": "65465",
+      "notas": "El cliente solicita un producto",
+      "id": 1
+    }
+  ]
+}
