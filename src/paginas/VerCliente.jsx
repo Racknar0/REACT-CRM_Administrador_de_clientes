@@ -29,7 +29,7 @@ const VerCliente = () => {
         obtenerCLienteApi();
     }, []);
 
-    console.log(cargando);
+    //console.log(cargando);
 
     return (
         <div>
