@@ -1,7 +1,7 @@
 {
   "clientes": [
     {
-      "nombre": "Camilo",
+      "nombre": "Camilo Actualizado",
       "empresa": "Asperiores dolore ap",
       "email": "jemys@mailinator.com",
       "telefono": "65465",
@@ -25,12 +25,12 @@
       "id": 3
     },
     {
-      "nombre": "Temporibus quibusdam",
-      "empresa": "Iste excepturi place",
-      "email": "sadag@mailinator.com",
-      "telefono": "785285287",
-      "notas": "Quis eiusmod commodi",
-      "id": 4
+      "nombre": "Fugiat id nihil cor",
+      "empresa": "Ea dolores ducimus ",
+      "email": "wabas@mailinator.com",
+      "telefono": "324234324",
+      "notas": "Deserunt dolores exe",
+      "id": 5
     }
   ]
 }
