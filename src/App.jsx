@@ -15,7 +15,7 @@ function App() {
     <BrowserRouter>
       <Routes>
 
-        <Route  path='/clientes' element={<Layout />} >   
+        <Route  path='/' element={<Layout />} >   
             <Route index element={<Inicio />} />  {/* RUTAS ANIDADAS */}
             <Route path='nuevo' element={<NuevoCliente />} />  {/* RUTAS ANIDADAS */}
             <Route path='editar/:id' element={<EditarCliente />} />  {/* RUTAS ANIDADAS */}
@@ -28,3 +28,4 @@ function App() {
 }
 
 export default App
+
